@@ -1,0 +1,11 @@
+export const FETCH_TASK = 'FETCH_TASK';
+export const ADD_TASK = 'ADD_TASK';
+export const DELETE_TASK = 'DELETE_TASK';
+export const UPDATE_MOCKS = 'UPDATE_MOCKS';
+export const CHECK_TASK = 'CHECK_TASK';
+export const CHECK_TASK_ALL = 'CHECK_TASK_ALL';
+export const UPDATE_TASK = 'UPDATE_TASK';
+export const UPDATE_TASK_EDIT = 'UPDATE_TASK_EDIT';
+export const UPDATE_MOCKS_EDIT = 'UPDATE_MOCKS_EDIT';
+export const ACCEPT_UPDATE_EDIT = 'ACCEPT_UPDATE_EDIT';
+export const SET_DATA_DEFAULT = 'SET_DATA_DEFAULT';

@@ -1,0 +1,9 @@
+com/salem/salem/domain/Clients.class
+com/salem/salem/web/TaskControler.class
+com/salem/salem/SalemApplication.class
+com/salem/salem/service/ClientsService.class
+com/salem/salem/service/TaskService.class
+com/salem/salem/web/ClientsControler.class
+com/salem/salem/domain/Task.class
+com/salem/salem/repository/TaskRepository.class
+com/salem/salem/repository/ClientsRepository.class

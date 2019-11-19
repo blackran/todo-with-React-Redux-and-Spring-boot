@@ -1,0 +1,9 @@
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/repository/TaskRepository.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/repository/ClientsRepository.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/service/ClientsService.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/web/ClientsControler.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/domain/Task.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/domain/Clients.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/web/TaskControler.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/SalemApplication.java
+/home/blackran/IdeaProjects/todo/src/main/java/com/salem/salem/service/TaskService.java
